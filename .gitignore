@@ -27,3 +27,5 @@ dist-ssr
 # User Custom
 .env
 package-lock.json
+.prettierrc.cjs
+commitlint.config.js
