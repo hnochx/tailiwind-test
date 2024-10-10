@@ -24,27 +24,17 @@ export default {
       'always',
 
       [
-        '🎉 Init',
-
-        '✨ Feat',
-
-        '📦️ Chore',
-
-        '💄 Design',
-
-        '🚑️ Fix',
-
-        '✅ Test',
-
-        '🚀 Deploy',
-
-        '🔨 Refactor',
-
-        '🚚 Rename',
-
-        '📚 Docs',
-
-        '🔥 Remove',
+        'Init',
+        'Feat',
+        'Chore',
+        'Design',
+        'Fix',
+        'Test',
+        'Deploy',
+        'Refactor',
+        'Rename',
+        'Docs',
+        'Remove',
       ],
     ],
   },
